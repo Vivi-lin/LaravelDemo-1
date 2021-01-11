@@ -67,29 +67,29 @@ and open the template in the editor.
             <tr>
             <figure>
                 <td>
-                    <img src =https://im.uniqlo.com/images/tw/uq/pc/goods/433037/item/69_433037_middles.jpg>
-                <figcaption>AIRism棉質抗UV圓領長袖</figcaption>
-                <figcaption style="text-align:right;padding-right: 10px;"><button class="button">NT $500<p>點擊加入購物車</p></button></figcaption>
+                    <img src =https://im.uniqlo.com/images/tw/uq/pc/goods/435900/item/50_435900_middles.jpg>
+                <figcaption>輕型柔軟圓領針織衫</figcaption>
+                <figcaption style="text-align:right;padding-right: 10px;"><button class="button">NT $690<p>點擊加入購物車</p></button></figcaption>
                 </td>
             </figure>
             <figure>
                 <td>
-                    <img src =https://im.uniqlo.com/images/tw/uq/pc/goods/432513/item/38_432513_middles.jpg>
-                <figcaption>HEATTECH棉質圓領T恤長袖</figcaption>
+                    <img src =https://im.uniqlo.com/images/tw/uq/pc/goods/428860/item/11_428860_middles.jpg>
+                <figcaption>精紡美麗諾羅紋高領毛衣</figcaption>
                 <figcaption style="text-align:right;padding-right: 10px;"><button class="button">NT $490<p>點擊加入購物車</p></button></figcaption>
                 </td>
             </figure>
             <figure>
                 <td>
-                    <img src =https://im.uniqlo.com/images/tw/uq/pc/goods/419499/item/39_419499_middles.jpg>
-                <figcaption>柔軟棉質高領長袖</figcaption>
+                    <img src =https://im.uniqlo.com/images/tw/uq/pc/goods/428861/item/47_428861_middles.jpg>
+                <figcaption>特級小羊毛圓領毛衣</figcaption>
                 <figcaption style="text-align:right;padding-right: 10px;"><button class="button">NT $450<p>點擊加入購物車</p></button></figcaption>
                 </td>
             </figure>
             <figure>
                 <td>
-                    <img src =https://im.uniqlo.com/images/tw/uq/pc/goods/435805/item/56_435805_middles.jpg>
-                <figcaption>華夫格亨利領長袖</figcaption>
+                    <img src =https://im.uniqlo.com/images/tw/uq/pc/goods/428862/item/03_428862.jpg>
+                <figcaption>特級小羊毛寬高領毛衣</figcaption>
                 <figcaption style="text-align:right;padding-right: 10px;"><button class="button">NT $450<p>點擊加入購物車</p></button></figcaption>
                 </td>
             </figure>
@@ -97,40 +97,40 @@ and open the template in the editor.
         <tr>
         <figure>
             <td>
-                <img src =https://im.uniqlo.com/images/tw/uq/pc/goods/433045/item/09_433045.jpg>
-            <figcaption>休閒連帽長袖</figcaption>
-            <figcaption style="text-align:right;padding-right: 10px;"><button class="button">NT $550<p>點擊加入購物車</p></button></figcaption>
+                <img src =https://im.uniqlo.com/images/tw/uq/pc/goods/422705/item/01_422705_middles.jpg>
+            <figcaption>休閒連帽外套</figcaption>
+            <figcaption style="text-align:right;padding-right: 10px;"><button class="button">NT $790<p>點擊加入購物車</p></button></figcaption>
             </td>
         </figure>
         <figure>
             <td>
-                <img src =https://im.uniqlo.com/images/tw/uq/pc/goods/436026/item/00_436026.jpg>
-            <figcaption>KEITH X TOKYO休閒連帽長袖</figcaption>
+                <img src =https://im.uniqlo.com/images/tw/uq/pc/goods/433531/item/09_433531.jpg>
+            <figcaption>休閒寬版外套</figcaption>
             <figcaption style="text-align:right;padding-right: 10px;"><button class="button">NT $600<p>點擊加入購物車</p></button></figcaption>
             </td>
         </figure>
         <figure>
             <td>
-                <img src =https://im.uniqlo.com/images/tw/uq/pc/goods/435278/item/36_435278.jpg>
-            <figcaption>寬版襯衫式外套</figcaption>
-            <figcaption style="text-align:right;padding-right: 10px;"><button class="button">NT $990<p>點擊加入購物車</p></button></figcaption>
+                <img src =https://im.uniqlo.com/images/tw/uq/pc/goods/433699/item/08_433699.jpg>
+            <figcaption>特級彈性DRY休閒連帽上衣</figcaption>
+            <figcaption style="text-align:right;padding-right: 10px;"><button class="button">NT $690<p>點擊加入購物車</p></button></figcaption>
             </td>
         </figure>
         <figure>
             <td>
-                <img src =https://im.uniqlo.com/images/tw/uq/pc/goods/432963/item/38_432963.jpg>
-            <figcaption>毛尼外套</figcaption>
-            <figcaption style="text-align:right;padding-right: 10px;"><button class="button">NT $1200<p>點擊加入購物車</p></button></figcaption>
+                <img src =https://im.uniqlo.com/images/tw/uq/pc/goods/432212/item/69_432212_middles.jpg>
+            <figcaption>絲質印花交叉式長袖洋裝</figcaption>
+            <figcaption style="text-align:right;padding-right: 10px;"><button class="button">NT $900<p>點擊加入購物車</p></button></figcaption>
             </td>
         </figure>
     </tr>
 </td>
 </table>
-        <script>
-            $(document).ready(function () {
-                $(".button").click(function () {
-                });
-            });
-        </script>
+<script>
+    $(document).ready(function () {
+        $(".button").click(function () {
+        });
+    });
+</script>
 </body>
 </html>

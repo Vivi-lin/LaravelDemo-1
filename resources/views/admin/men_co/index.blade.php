@@ -12,7 +12,7 @@
             <table class="table mt-5">
                 <thead>
                     <tr>
-                        <th scope="col">women</th>
+                        <th scope="col">men</th>
                         <th scope="col">商品名稱</th>
                         <th scope="col">商品副標題</th>
                         <th scope="col">圖片</th>

@@ -119,3 +119,5 @@ Route::get('/user', function(){
 });
 
 
+Route::get('/frontend.men.w_co', [App\Http\Controllers\HomeController::class, 'index4'])->name('frontend.men.w_co');
+Route::get('/frontend.women.w_co', [App\Http\Controllers\HomeController::class, 'index5'])->name('frontend.women.w_co');
